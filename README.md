@@ -4,6 +4,7 @@ sudo apt update
 sudo apt install ros-humble-teleop-twist-keyboard ros-humble-joint-state-publisher-gui
 ## Các phím di chuyển
 Các phím di chuyển:
+
 w: đi thẳng  
 x: đi lùi  
 a: sang trái  
